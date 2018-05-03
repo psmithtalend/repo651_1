@@ -111,7 +111,7 @@
     <routinesParameter id="_1zv6IE8gEeiHI54RZt_ARA" name="TalendStringUtil"/>
     <routinesParameter id="_1ztd4E8gEeiHI54RZt_ARA" name="TalendString"/>
   </parameters>
-  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="50" offsetLabelY="32" posX="288" posY="128">
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="50" offsetLabelY="32" posX="480" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
     <elementParameter field="RADIO" name="BASIC_MODE" value="true"/>
     <elementParameter field="RADIO" name="TABLE_PRINT" value="false"/>
